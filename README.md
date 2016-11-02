@@ -13,7 +13,7 @@ npm i react-native-LoopAnimation
 
 ## Example 
 ```js
-import LoopAnimation from './app/LoopAnimation.js'
+import LoopAnimation from 'react-native-LoopAnimation.js'
 ...
 render() {
   //you can also use, like source={imgSource}
